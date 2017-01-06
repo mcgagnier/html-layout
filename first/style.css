@@ -1,9 +1,28 @@
 
 
 .top {
-    height 100px;
-    width 100%;
+    height: 100px;
+    width: 100%;
     background-color: #47494A;
-    margin: 0px;
+}
+.middle-side {
+    height: 800px;
+    width: 12%;
+    background-color: #939899;
+    float: left;
+}
+.middle-middle {
+    height: 725px;
+    width: 76%;
+    background-color: #E1E7E8;
+    float: left;
+
+}
+.middle-bottom {
+    height: 75px;
+    width: 100%;
+    background-color: #47494A;
+    float: left;
+    margin: 725px 0px 0px 0px
 
 }
