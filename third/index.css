@@ -1,0 +1,39 @@
+body,html {
+    background-color: #c9cdd3;
+    margin 0;
+    padding 0;
+}
+p {
+    text-align: centered;
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 60px;
+}
+.box-top {
+    background-color: #4286f4;    
+    height: 80px;
+    width: 80px;
+    margin-left: 20px;
+}
+.box-text {
+    background-color: white;    
+    height: 200px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.box {
+    height: 100px;
+    width: 100%;
+}
+.box-blue {
+    background-color:  #4286f4;
+}
+.box-green {
+    background-color: #52f9c4;
+}
+.box-kahki {
+    background-color: #D2E6A0;
+}
+.box-yellow {
+    background-color: #ffdb4d;
+}
